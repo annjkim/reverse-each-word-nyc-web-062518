@@ -1,2 +1,1 @@
-def reverse_each_word(string)
-  string.reverse
+def reverse_each_word(Calling .any? on a collection will return true if the code in the block (code between the do...end keywords or between the { } "curly braces") evaluates to true for any element in the collection
